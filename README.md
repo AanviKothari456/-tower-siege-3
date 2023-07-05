@@ -1,2 +1,1 @@
-# tower-siege-3
-tower siege 3
+Welcome to the Tower Siege Game! In this game, you'll have the exciting task of demolishing a tower by launching a projectile to knock down the blocks. Your objective is to score points by strategically aiming and destroying the tower.
